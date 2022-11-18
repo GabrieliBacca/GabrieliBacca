@@ -28,7 +28,6 @@ I'm 17 years old. <p>
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Other knowledges:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 

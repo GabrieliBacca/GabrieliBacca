@@ -43,6 +43,9 @@ I'm 17 years old. <p>
 * ALURA Dart: lidando com Exceptions e Null Safety
 * ALURA Flutter: Widgets, Stateless, Stateful, Imagens e Animações
 * ALURA Flutter: Controller, navegação e estados 
+* ALURA Flutter: Gerenciamento de estados com Provider
+  
+ 
 ##
 
 <div> 

@@ -7,10 +7,6 @@ I'm 17 years old. <p>
   <a href = "mailto:baccagabrieli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div style="display: inline_block"><br>
-  <b> Main skills: </b>
-
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- 
 
 </div>
   
@@ -31,7 +27,7 @@ I'm 17 years old. <p>
 ### Other knowledges:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
+![C](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
  
 ### Certifications:
 * ALURA Dart: criando e manipulando variáveis e listas

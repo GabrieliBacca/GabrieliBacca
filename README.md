@@ -8,6 +8,22 @@
 
 </div>
   
+### Studying in this moment:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+
+
+### Other knowledges:
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-121011?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
  ### Tools:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -16,17 +32,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Other knowledges:
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-121011?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
 ### Certifications:
 * ALURA Dart: criando e manipulando variáveis e listas
 * ALURA Dart: entendendo a Orientação a Objetos
